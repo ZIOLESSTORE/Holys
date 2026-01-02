@@ -1,0 +1,9 @@
+name: Pickaxe3x3
+version: 1.0
+main: me.zioles.pickaxe3x3.Pickaxe3x3
+api-version: 1.16
+commands:
+  tools:
+    description: Give custom tools
+    usage: /tools give <player> <tool>
+    permission: tools.admin
